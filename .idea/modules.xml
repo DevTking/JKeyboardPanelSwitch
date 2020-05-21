@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JKeyboardPanelSwitch.iml" filepath="$PROJECT_DIR$/JKeyboardPanelSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/JKeyboardPanelSwitch-app.iml" filepath="$PROJECT_DIR$/app/JKeyboardPanelSwitch-app.iml" group="JKeyboardPanelSwitch/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/JKeyboardPanelSwitch-library.iml" filepath="$PROJECT_DIR$/library/JKeyboardPanelSwitch-library.iml" group="JKeyboardPanelSwitch/library" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-JKeyboardPanelSwitch.iml" filepath="$PROJECT_DIR$/StudioProjects-JKeyboardPanelSwitch.iml" group="JKeyboardPanelSwitch" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
